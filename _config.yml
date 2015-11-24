@@ -1,11 +1,11 @@
 # Site settings
 title: g4idrijs的技术博客
-email: coolnameismy@hotmail.com
+email: g4idrijs@gmail.com
 description: > #g4idrijs的技术博客
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://liuyanwei.jumppo.com" # the base hostname & protocol for your site
-twitter_username: coolnameismy@hotmail.com
-github_username:  coolnameismy
+twitter_username: g4idrijs
+github_username:  g4idrijs
 
 # Build settings
 #markdown: kramdown
@@ -13,7 +13,7 @@ permalink: /:year/:month/:day/:title.html   #博文的固定链接
 paginate: 10                                #分页时每页博文数量
 author:                                     #自定义常亮
   name: g4idrijs
-  email: coolnameismy@hotmail.com
+  email: g4idrijs@sina.com
   link: http://liuyanwei.jumppo.com/
   weibo: http://weibo.com/1897719834
   github: http://github.com/coolnameismy
