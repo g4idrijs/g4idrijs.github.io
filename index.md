@@ -34,7 +34,7 @@ title: Welcome
 ## 博客中示例程序代码下载：
 ---
 
-[blog demo](https://github.com/g4idrij/demo)
+[blog demo](https://github.com/g4idrijs/demo)
 
 ## 最后
 ---
