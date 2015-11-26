@@ -1,8 +1,3 @@
-### 我的博客
-
-地址：[http://liuyanwei.jumppo.com](http://liuyanwei.jumppo.com)
-
-
 ### 安装说明
 
 1. fork库到自己的github
@@ -17,7 +12,6 @@
 
 fork程序后如果要保留我的文章，请注明出处。
 
-github博客系统使用的是jekyll搭建的，关于博客详细搭建，可以参考我的文章：[在github上搭建jekyll博客](http://liuyanwei.jumppo.com/2014/02/12/how-to-deploy-a-blog-on-github-by-jekyll.html)
 
 
 ### 更新内容
